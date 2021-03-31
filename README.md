@@ -60,6 +60,12 @@ Shutterbug.compareScreenshotFP(driver,"expected","observed");
 ---
 ## Usage
 This is set up as a Maven project.
+It is necessary to add a delay after visiting the page, for example:
+```
+driver.get("https://yourpage.com");
+Thread.sleep(5000);
+```
+Otherwise, it may not work.
 
 
 
