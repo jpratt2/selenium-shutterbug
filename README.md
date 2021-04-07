@@ -1,4 +1,4 @@
-# seleniumCompareFullpageScreenshots version 1.1
+# seleniumCompareFullpageScreenshots version 1
 This fork of [selenium-shutterbug](https://github.com/assertthat/selenium-shutterbug) (Java) offers 2 additional methods for full-page screenshot comparisons.  
 It is used for site monitoring to check if anything has visually changed on a list of web pages. Best in Firefox, but also works in Chrome.
 
