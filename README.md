@@ -1,4 +1,4 @@
-# seleniumCompareFullpageScreenshots (deprecated)
+# seleniumCompareFullpageScreenshots2 (deprecated)
 Please visit https://github.com/jpratt2/seleniumCompareFullpageScreenshots
 
 This fork of [selenium-shutterbug](https://github.com/assertthat/selenium-shutterbug) (Java) offers 2 additional methods for full-page screenshot comparisons.  
